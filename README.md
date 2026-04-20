@@ -25,7 +25,7 @@
   - [x] 04/12 getDistanceBetweenPoints
   - [x] 05/12 getLinearEquationRoot
   - [x] 06/12 getAngleBetweenVectors
-  - [ ] 07/12 getLastDigit
+  - [x] 07/12 getLastDigit
   - [ ] 08/12 parseNumberFromString
   - [ ] 09/12 getParallelepipedDiagonal
   - [ ] 10/12 roundToPowerOfTen
