@@ -10,7 +10,7 @@
   - [x] 05/15 getFirstChar
   - [x] 06/15 removeLeadingAndTrailingWhitespaces
   - [x] 07/15 repeatString
-  - [ ] 08/15 removeFirstOccurrences
+  - [x] 08/15 removeFirstOccurrences
   - [ ] 09/15 unbracketTag
   - [ ] 10/15 convertToUpperCase
   - [ ] 11/15 extractEmails
