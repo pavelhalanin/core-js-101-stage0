@@ -19,7 +19,7 @@
   - [x] 14/15 isString
   - [x] 15/15 getCardId
 - 02 number tasks
-  - [ ] 01/12 getRectangleArea
+  - [x] 01/12 getRectangleArea
   - [ ] 02/12 getCircleCircumference
   - [ ] 03/12 getAverage
   - [ ] 04/12 getDistanceBetweenPoints
