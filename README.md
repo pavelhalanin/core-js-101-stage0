@@ -57,7 +57,7 @@
   - [x] 23/31 toStringList
   - [x] 24/31 sortCitiesArray
   - [x] 25/31 getIdentityMatrix
-  - [ ] 26/31 getIntervalArray
+  - [x] 26/31 getIntervalArray
   - [ ] 27/31 distinct
   - [ ] 28/31 group
   - [ ] 29/31 selectMany
