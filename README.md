@@ -63,6 +63,24 @@
   - [x] 29/31 selectMany
   - [x] 30/31 getElementByIndexes
   - [x] 31/31 swapHeadAndTail
+- 04 conditions n loops tasks
+  - [ ] 01/17 getFizzBuzz
+  - [ ] 02/17 getFactorial
+  - [ ] 03/17 getSumBetweenNumbers
+  - [ ] 04/17 isTriangle
+  - [ ] 05/17 doRectanglesOverlap
+  - [ ] 06/17 isInsideCircle
+  - [ ] 07/17 findFirstSingleChar
+  - [ ] 08/17 getIntervalString
+  - [ ] 09/17 reverseString
+  - [ ] 10/17 reverseInteger
+  - [ ] 11/17 isCreditCardNumber
+  - [ ] 12/17 getDigitalRoot
+  - [ ] 13/17 isBracketsBalanced
+  - [ ] 14/17 toNaryString
+  - [ ] 15/17 getCommonDirectoryPath
+  - [ ] 16/17 getMatrixProduct
+  - [ ] 17/17 evaluateTicTacToePosition
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
