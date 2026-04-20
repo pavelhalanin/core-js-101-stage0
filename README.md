@@ -43,7 +43,7 @@
   - [x] 09/31 insertItem
   - [x] 10/31 getHead
   - [x] 11/31 getTail
-  - [ ] 12/31 toCsvText
+  - [x] 12/31 toCsvText
   - [ ] 13/31 toArrayOfSquares
   - [ ] 14/31 getMovingSum
   - [ ] 15/31 getSecondItems
