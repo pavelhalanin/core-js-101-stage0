@@ -36,7 +36,7 @@
   - [x] 02/31 generateOdds
   - [x] 03/31 doubleArray
   - [x] 04/31 getArrayOfPositives
-  - [ ] 05/31 getArrayOfStrings
+  - [x] 05/31 getArrayOfStrings
   - [ ] 06/31 removeFalsyValues
   - [ ] 07/31 getUpperCaseStrings
   - [ ] 08/31 getStringsLength
