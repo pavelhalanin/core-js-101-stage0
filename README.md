@@ -1,5 +1,24 @@
 # Core JS 101 (Stage 0 Version)
 
+## My Checklist
+
+- 01 string tasks
+  - [ ] 01/15 concatenateStrings
+  - [ ] 02/15 getStringLength
+  - [ ] 03/15 getStringFromTemplate
+  - [ ] 04/15 extractNameFromTemplate
+  - [ ] 05/15 getFirstChar
+  - [ ] 06/15 removeLeadingAndTrailingWhitespaces
+  - [ ] 07/15 repeatString
+  - [ ] 08/15 removeFirstOccurrences
+  - [ ] 09/15 unbracketTag
+  - [ ] 10/15 convertToUpperCase
+  - [ ] 11/15 extractEmails
+  - [ ] 12/15 getRectangleString
+  - [ ] 13/15 encodeToRot13
+  - [ ] 14/15 isString
+  - [ ] 15/15 getCardId
+
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
 However, PRs with the fixes or proposals are welcomed!
