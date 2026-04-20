@@ -41,7 +41,7 @@
   - [x] 07/31 getUpperCaseStrings
   - [x] 08/31 getStringsLength
   - [x] 09/31 insertItem
-  - [ ] 10/31 getHead
+  - [x] 10/31 getHead
   - [ ] 11/31 getTail
   - [ ] 12/31 toCsvText
   - [ ] 13/31 toArrayOfSquares
