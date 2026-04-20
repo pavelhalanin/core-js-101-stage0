@@ -32,7 +32,7 @@
   - [x] 11/12 isPrime
   - [x] 12/12 toNumber
 - 03 numbers tasks
-  - [ ] 01/31 findElement
+  - [x] 01/31 findElement
   - [ ] 02/31 generateOdds
   - [ ] 03/31 doubleArray
   - [ ] 04/31 getArrayOfPositives
