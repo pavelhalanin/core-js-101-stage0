@@ -7,7 +7,7 @@
   - [x] 02/15 getStringLength
   - [x] 03/15 getStringFromTemplate
   - [x] 04/15 extractNameFromTemplate
-  - [ ] 05/15 getFirstChar
+  - [x] 05/15 getFirstChar
   - [ ] 06/15 removeLeadingAndTrailingWhitespaces
   - [ ] 07/15 repeatString
   - [ ] 08/15 removeFirstOccurrences
