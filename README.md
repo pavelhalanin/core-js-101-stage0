@@ -62,7 +62,7 @@
   - [x] 28/31 group
   - [x] 29/31 selectMany
   - [x] 30/31 getElementByIndexes
-  - [ ] 31/31 swapHeadAndTail
+  - [x] 31/31 swapHeadAndTail
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
