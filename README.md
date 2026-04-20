@@ -23,7 +23,7 @@
   - [x] 02/12 getCircleCircumference
   - [x] 03/12 getAverage
   - [x] 04/12 getDistanceBetweenPoints
-  - [ ] 05/12 getLinearEquationRoot
+  - [x] 05/12 getLinearEquationRoot
   - [ ] 06/12 getAngleBetweenVectors
   - [ ] 07/12 getLastDigit
   - [ ] 08/12 parseNumberFromString
