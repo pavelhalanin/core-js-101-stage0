@@ -15,7 +15,7 @@
   - [x] 10/15 convertToUpperCase
   - [x] 11/15 extractEmails
   - [x] 12/15 getRectangleString
-  - [ ] 13/15 encodeToRot13
+  - [x] 13/15 encodeToRot13
   - [ ] 14/15 isString
   - [ ] 15/15 getCardId
 
