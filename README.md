@@ -31,6 +31,38 @@
   - [x] 10/12 roundToPowerOfTen
   - [x] 11/12 isPrime
   - [x] 12/12 toNumber
+- 03 numbers tasks
+  - [ ] 01/31 findElement
+  - [ ] 02/31 generateOdds
+  - [ ] 03/31 doubleArray
+  - [ ] 04/31 getArrayOfPositives
+  - [ ] 05/31 getArrayOfStrings
+  - [ ] 06/31 removeFalsyValues
+  - [ ] 07/31 getUpperCaseStrings
+  - [ ] 08/31 getStringsLength
+  - [ ] 09/31 insertItem
+  - [ ] 10/31 getHead
+  - [ ] 11/31 getTail
+  - [ ] 12/31 toCsvText
+  - [ ] 13/31 toArrayOfSquares
+  - [ ] 14/31 getMovingSum
+  - [ ] 15/31 getSecondItems
+  - [ ] 16/31 propagateItemsByPositionIndex
+  - [ ] 17/31 get3TopItems
+  - [ ] 18/31 getPositivesCount
+  - [ ] 19/31 sortDigitNamesByNumericOrder
+  - [ ] 20/31 getItemsSum
+  - [ ] 21/31 getFalsyValuesCount
+  - [ ] 22/31 findAllOccurrences
+  - [ ] 23/31 toStringList
+  - [ ] 24/31 sortCitiesArray
+  - [ ] 25/31 getIdentityMatrix
+  - [ ] 26/31 getIntervalArray
+  - [ ] 27/31 distinct
+  - [ ] 28/31 group
+  - [ ] 29/31 selectMany
+  - [ ] 30/31 getElementByIndexes
+  - [ ] 31/31 swapHeadAndTail
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
