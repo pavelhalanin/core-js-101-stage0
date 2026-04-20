@@ -42,7 +42,7 @@
   - [x] 08/31 getStringsLength
   - [x] 09/31 insertItem
   - [x] 10/31 getHead
-  - [ ] 11/31 getTail
+  - [x] 11/31 getTail
   - [ ] 12/31 toCsvText
   - [ ] 13/31 toArrayOfSquares
   - [ ] 14/31 getMovingSum
