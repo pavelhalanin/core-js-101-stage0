@@ -51,7 +51,7 @@
   - [x] 17/31 get3TopItems
   - [x] 18/31 getPositivesCount
   - [x] 19/31 sortDigitNamesByNumericOrder
-  - [ ] 20/31 getItemsSum
+  - [x] 20/31 getItemsSum
   - [ ] 21/31 getFalsyValuesCount
   - [ ] 22/31 findAllOccurrences
   - [ ] 23/31 toStringList
