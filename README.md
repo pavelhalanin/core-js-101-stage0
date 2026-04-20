@@ -59,7 +59,7 @@
   - [x] 25/31 getIdentityMatrix
   - [x] 26/31 getIntervalArray
   - [x] 27/31 distinct
-  - [ ] 28/31 group
+  - [x] 28/31 group
   - [ ] 29/31 selectMany
   - [ ] 30/31 getElementByIndexes
   - [ ] 31/31 swapHeadAndTail

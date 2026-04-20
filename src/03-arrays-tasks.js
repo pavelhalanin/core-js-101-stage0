@@ -575,8 +575,35 @@ function distinct(arr) {
  *    "Poland" => ["Lodz"]
  *   }
  */
-function group(/* array, keySelector, valueSelector */) {
-  throw new Error('Not implemented');
+function group(array, keySelector, valueSelector) {
+  return array.reduce((map, element) => {
+    const KEY = keySelector(element);
+    const VALUE = valueSelector(element);
+
+    if (!map.has(KEY)) {
+      map.set(KEY, []);
+    }
+
+    map.get(KEY).push(VALUE);
+
+    return map;
+  }, new Map());
+
+  /*
+  const MAP = new Map();
+  array.map((element) => {
+    const KEY = keySelector(element);
+    const VALUE = valueSelector(element);
+
+    if (!MAP.has(KEY)) {
+      MAP.set(KEY, []);
+    }
+
+    MAP.get(KEY).push(VALUE);
+    return null;
+  });
+  return MAP;
+  */
 }
 
 /**
