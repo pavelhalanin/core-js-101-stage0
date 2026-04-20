@@ -55,7 +55,7 @@
   - [x] 21/31 getFalsyValuesCount
   - [x] 22/31 findAllOccurrences
   - [x] 23/31 toStringList
-  - [ ] 24/31 sortCitiesArray
+  - [x] 24/31 sortCitiesArray
   - [ ] 25/31 getIdentityMatrix
   - [ ] 26/31 getIntervalArray
   - [ ] 27/31 distinct
