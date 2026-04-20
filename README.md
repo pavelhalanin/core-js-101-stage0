@@ -30,7 +30,7 @@
   - [x] 09/12 getParallelepipedDiagonal
   - [x] 10/12 roundToPowerOfTen
   - [x] 11/12 isPrime
-  - [ ] 12/12 toNumber
+  - [x] 12/12 toNumber
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
