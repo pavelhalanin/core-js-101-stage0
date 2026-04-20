@@ -18,6 +18,19 @@
   - [x] 13/15 encodeToRot13
   - [x] 14/15 isString
   - [x] 15/15 getCardId
+- 02 number tasks
+  - [ ] 01/12 getRectangleArea
+  - [ ] 02/12 getCircleCircumference
+  - [ ] 03/12 getAverage
+  - [ ] 04/12 getDistanceBetweenPoints
+  - [ ] 05/12 getLinearEquationRoot
+  - [ ] 06/12 getAngleBetweenVectors
+  - [ ] 07/12 getLastDigit
+  - [ ] 08/12 parseNumberFromString
+  - [ ] 09/12 getParallelepipedDiagonal
+  - [ ] 10/12 roundToPowerOfTen
+  - [ ] 11/12 isPrime
+  - [ ] 12/12 toNumber
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
