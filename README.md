@@ -67,7 +67,7 @@
   - [x] 01/17 getFizzBuzz
   - [x] 02/17 getFactorial
   - [x] 03/17 getSumBetweenNumbers
-  - [ ] 04/17 isTriangle
+  - [x] 04/17 isTriangle
   - [ ] 05/17 doRectanglesOverlap
   - [ ] 06/17 isInsideCircle
   - [ ] 07/17 findFirstSingleChar
