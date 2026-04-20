@@ -50,7 +50,7 @@
   - [x] 16/31 propagateItemsByPositionIndex
   - [x] 17/31 get3TopItems
   - [x] 18/31 getPositivesCount
-  - [ ] 19/31 sortDigitNamesByNumericOrder
+  - [x] 19/31 sortDigitNamesByNumericOrder
   - [ ] 20/31 getItemsSum
   - [ ] 21/31 getFalsyValuesCount
   - [ ] 22/31 findAllOccurrences
