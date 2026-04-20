@@ -46,7 +46,7 @@
   - [x] 12/31 toCsvText
   - [x] 13/31 toArrayOfSquares
   - [x] 14/31 getMovingSum
-  - [ ] 15/31 getSecondItems
+  - [x] 15/31 getSecondItems
   - [ ] 16/31 propagateItemsByPositionIndex
   - [ ] 17/31 get3TopItems
   - [ ] 18/31 getPositivesCount
