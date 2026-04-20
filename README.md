@@ -24,7 +24,7 @@
   - [x] 03/12 getAverage
   - [x] 04/12 getDistanceBetweenPoints
   - [x] 05/12 getLinearEquationRoot
-  - [ ] 06/12 getAngleBetweenVectors
+  - [x] 06/12 getAngleBetweenVectors
   - [ ] 07/12 getLastDigit
   - [ ] 08/12 parseNumberFromString
   - [ ] 09/12 getParallelepipedDiagonal
