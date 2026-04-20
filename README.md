@@ -71,7 +71,7 @@
   - [x] 05/17 doRectanglesOverlap
   - [x] 06/17 isInsideCircle
   - [x] 07/17 findFirstSingleChar
-  - [ ] 08/17 getIntervalString
+  - [x] 08/17 getIntervalString
   - [ ] 09/17 reverseString
   - [ ] 10/17 reverseInteger
   - [ ] 11/17 isCreditCardNumber
