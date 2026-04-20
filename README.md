@@ -21,7 +21,7 @@
 - 02 number tasks
   - [x] 01/12 getRectangleArea
   - [x] 02/12 getCircleCircumference
-  - [ ] 03/12 getAverage
+  - [x] 03/12 getAverage
   - [ ] 04/12 getDistanceBetweenPoints
   - [ ] 05/12 getLinearEquationRoot
   - [ ] 06/12 getAngleBetweenVectors
