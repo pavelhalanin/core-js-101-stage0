@@ -26,7 +26,7 @@
   - [x] 05/12 getLinearEquationRoot
   - [x] 06/12 getAngleBetweenVectors
   - [x] 07/12 getLastDigit
-  - [ ] 08/12 parseNumberFromString
+  - [x] 08/12 parseNumberFromString
   - [ ] 09/12 getParallelepipedDiagonal
   - [ ] 10/12 roundToPowerOfTen
   - [ ] 11/12 isPrime
