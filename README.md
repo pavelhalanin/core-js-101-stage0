@@ -40,7 +40,7 @@
   - [x] 06/31 removeFalsyValues
   - [x] 07/31 getUpperCaseStrings
   - [x] 08/31 getStringsLength
-  - [ ] 09/31 insertItem
+  - [x] 09/31 insertItem
   - [ ] 10/31 getHead
   - [ ] 11/31 getTail
   - [ ] 12/31 toCsvText
