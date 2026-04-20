@@ -73,7 +73,7 @@
   - [x] 07/17 findFirstSingleChar
   - [x] 08/17 getIntervalString
   - [x] 09/17 reverseString
-  - [ ] 10/17 reverseInteger
+  - [x] 10/17 reverseInteger
   - [ ] 11/17 isCreditCardNumber
   - [ ] 12/17 getDigitalRoot
   - [ ] 13/17 isBracketsBalanced
