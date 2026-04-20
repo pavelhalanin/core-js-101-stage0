@@ -13,7 +13,7 @@
   - [x] 08/15 removeFirstOccurrences
   - [x] 09/15 unbracketTag
   - [x] 10/15 convertToUpperCase
-  - [ ] 11/15 extractEmails
+  - [x] 11/15 extractEmails
   - [ ] 12/15 getRectangleString
   - [ ] 13/15 encodeToRot13
   - [ ] 14/15 isString
