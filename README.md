@@ -16,7 +16,7 @@
   - [x] 11/15 extractEmails
   - [x] 12/15 getRectangleString
   - [x] 13/15 encodeToRot13
-  - [ ] 14/15 isString
+  - [x] 14/15 isString
   - [ ] 15/15 getCardId
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
