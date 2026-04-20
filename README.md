@@ -22,7 +22,7 @@
   - [x] 01/12 getRectangleArea
   - [x] 02/12 getCircleCircumference
   - [x] 03/12 getAverage
-  - [ ] 04/12 getDistanceBetweenPoints
+  - [x] 04/12 getDistanceBetweenPoints
   - [ ] 05/12 getLinearEquationRoot
   - [ ] 06/12 getAngleBetweenVectors
   - [ ] 07/12 getLastDigit
