@@ -4,7 +4,7 @@
 
 - 01 string tasks
   - [x] 01/15 concatenateStrings
-  - [ ] 02/15 getStringLength
+  - [x] 02/15 getStringLength
   - [ ] 03/15 getStringFromTemplate
   - [ ] 04/15 extractNameFromTemplate
   - [ ] 05/15 getFirstChar
