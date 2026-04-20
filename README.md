@@ -9,7 +9,7 @@
   - [x] 04/15 extractNameFromTemplate
   - [x] 05/15 getFirstChar
   - [x] 06/15 removeLeadingAndTrailingWhitespaces
-  - [ ] 07/15 repeatString
+  - [x] 07/15 repeatString
   - [ ] 08/15 removeFirstOccurrences
   - [ ] 09/15 unbracketTag
   - [ ] 10/15 convertToUpperCase
