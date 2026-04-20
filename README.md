@@ -28,7 +28,7 @@
   - [x] 07/12 getLastDigit
   - [x] 08/12 parseNumberFromString
   - [x] 09/12 getParallelepipedDiagonal
-  - [ ] 10/12 roundToPowerOfTen
+  - [x] 10/12 roundToPowerOfTen
   - [ ] 11/12 isPrime
   - [ ] 12/12 toNumber
 
