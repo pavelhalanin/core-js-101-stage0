@@ -58,7 +58,7 @@
   - [x] 24/31 sortCitiesArray
   - [x] 25/31 getIdentityMatrix
   - [x] 26/31 getIntervalArray
-  - [ ] 27/31 distinct
+  - [x] 27/31 distinct
   - [ ] 28/31 group
   - [ ] 29/31 selectMany
   - [ ] 30/31 getElementByIndexes
