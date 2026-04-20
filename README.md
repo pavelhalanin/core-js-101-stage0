@@ -66,7 +66,7 @@
 - 04 conditions n loops tasks
   - [x] 01/17 getFizzBuzz
   - [x] 02/17 getFactorial
-  - [ ] 03/17 getSumBetweenNumbers
+  - [x] 03/17 getSumBetweenNumbers
   - [ ] 04/17 isTriangle
   - [ ] 05/17 doRectanglesOverlap
   - [ ] 06/17 isInsideCircle
