@@ -54,7 +54,7 @@
   - [x] 20/31 getItemsSum
   - [x] 21/31 getFalsyValuesCount
   - [x] 22/31 findAllOccurrences
-  - [ ] 23/31 toStringList
+  - [x] 23/31 toStringList
   - [ ] 24/31 sortCitiesArray
   - [ ] 25/31 getIdentityMatrix
   - [ ] 26/31 getIntervalArray
