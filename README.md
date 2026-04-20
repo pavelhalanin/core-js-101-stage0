@@ -20,7 +20,7 @@
   - [x] 15/15 getCardId
 - 02 number tasks
   - [x] 01/12 getRectangleArea
-  - [ ] 02/12 getCircleCircumference
+  - [x] 02/12 getCircleCircumference
   - [ ] 03/12 getAverage
   - [ ] 04/12 getDistanceBetweenPoints
   - [ ] 05/12 getLinearEquationRoot
