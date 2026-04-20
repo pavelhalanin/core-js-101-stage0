@@ -8,7 +8,7 @@
   - [x] 03/15 getStringFromTemplate
   - [x] 04/15 extractNameFromTemplate
   - [x] 05/15 getFirstChar
-  - [ ] 06/15 removeLeadingAndTrailingWhitespaces
+  - [x] 06/15 removeLeadingAndTrailingWhitespaces
   - [ ] 07/15 repeatString
   - [ ] 08/15 removeFirstOccurrences
   - [ ] 09/15 unbracketTag
