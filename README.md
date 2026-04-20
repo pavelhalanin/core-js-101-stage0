@@ -3,7 +3,7 @@
 ## My Checklist
 
 - 01 string tasks
-  - [ ] 01/15 concatenateStrings
+  - [x] 01/15 concatenateStrings
   - [ ] 02/15 getStringLength
   - [ ] 03/15 getStringFromTemplate
   - [ ] 04/15 extractNameFromTemplate
