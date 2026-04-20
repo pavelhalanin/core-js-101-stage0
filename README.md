@@ -34,7 +34,7 @@
 - 03 numbers tasks
   - [x] 01/31 findElement
   - [x] 02/31 generateOdds
-  - [ ] 03/31 doubleArray
+  - [x] 03/31 doubleArray
   - [ ] 04/31 getArrayOfPositives
   - [ ] 05/31 getArrayOfStrings
   - [ ] 06/31 removeFalsyValues
