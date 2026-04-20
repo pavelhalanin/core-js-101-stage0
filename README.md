@@ -48,7 +48,7 @@
   - [x] 14/31 getMovingSum
   - [x] 15/31 getSecondItems
   - [x] 16/31 propagateItemsByPositionIndex
-  - [ ] 17/31 get3TopItems
+  - [x] 17/31 get3TopItems
   - [ ] 18/31 getPositivesCount
   - [ ] 19/31 sortDigitNamesByNumericOrder
   - [ ] 20/31 getItemsSum
