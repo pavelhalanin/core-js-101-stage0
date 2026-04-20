@@ -11,7 +11,7 @@
   - [x] 06/15 removeLeadingAndTrailingWhitespaces
   - [x] 07/15 repeatString
   - [x] 08/15 removeFirstOccurrences
-  - [ ] 09/15 unbracketTag
+  - [x] 09/15 unbracketTag
   - [ ] 10/15 convertToUpperCase
   - [ ] 11/15 extractEmails
   - [ ] 12/15 getRectangleString
