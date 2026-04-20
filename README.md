@@ -27,7 +27,7 @@
   - [x] 06/12 getAngleBetweenVectors
   - [x] 07/12 getLastDigit
   - [x] 08/12 parseNumberFromString
-  - [ ] 09/12 getParallelepipedDiagonal
+  - [x] 09/12 getParallelepipedDiagonal
   - [ ] 10/12 roundToPowerOfTen
   - [ ] 11/12 isPrime
   - [ ] 12/12 toNumber
