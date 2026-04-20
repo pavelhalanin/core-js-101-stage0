@@ -26,8 +26,23 @@
  *  21 => 'Fizz'
  *
  */
-function getFizzBuzz(/* num */) {
-  throw new Error('Not implemented');
+function getFizzBuzz(num) {
+  const IS_DIV_5 = num % 5 === 0;
+  const IS_DIV_3 = num % 3 === 0;
+
+  if (IS_DIV_3 && IS_DIV_5) {
+    return 'FizzBuzz';
+  }
+
+  if (IS_DIV_3) {
+    return 'Fizz';
+  }
+
+  if (IS_DIV_5) {
+    return 'Buzz';
+  }
+
+  return num;
 }
 
 /**
