@@ -70,7 +70,7 @@
   - [x] 04/17 isTriangle
   - [x] 05/17 doRectanglesOverlap
   - [x] 06/17 isInsideCircle
-  - [ ] 07/17 findFirstSingleChar
+  - [x] 07/17 findFirstSingleChar
   - [ ] 08/17 getIntervalString
   - [ ] 09/17 reverseString
   - [ ] 10/17 reverseInteger
