@@ -60,7 +60,7 @@
   - [x] 26/31 getIntervalArray
   - [x] 27/31 distinct
   - [x] 28/31 group
-  - [ ] 29/31 selectMany
+  - [x] 29/31 selectMany
   - [ ] 30/31 getElementByIndexes
   - [ ] 31/31 swapHeadAndTail
 
