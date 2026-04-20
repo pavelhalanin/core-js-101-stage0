@@ -68,7 +68,7 @@
   - [x] 02/17 getFactorial
   - [x] 03/17 getSumBetweenNumbers
   - [x] 04/17 isTriangle
-  - [ ] 05/17 doRectanglesOverlap
+  - [x] 05/17 doRectanglesOverlap
   - [ ] 06/17 isInsideCircle
   - [ ] 07/17 findFirstSingleChar
   - [ ] 08/17 getIntervalString
