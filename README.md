@@ -52,7 +52,7 @@
   - [x] 18/31 getPositivesCount
   - [x] 19/31 sortDigitNamesByNumericOrder
   - [x] 20/31 getItemsSum
-  - [ ] 21/31 getFalsyValuesCount
+  - [x] 21/31 getFalsyValuesCount
   - [ ] 22/31 findAllOccurrences
   - [ ] 23/31 toStringList
   - [ ] 24/31 sortCitiesArray
