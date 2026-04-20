@@ -69,7 +69,7 @@
   - [x] 03/17 getSumBetweenNumbers
   - [x] 04/17 isTriangle
   - [x] 05/17 doRectanglesOverlap
-  - [ ] 06/17 isInsideCircle
+  - [x] 06/17 isInsideCircle
   - [ ] 07/17 findFirstSingleChar
   - [ ] 08/17 getIntervalString
   - [ ] 09/17 reverseString
