@@ -38,7 +38,7 @@
   - [x] 04/31 getArrayOfPositives
   - [x] 05/31 getArrayOfStrings
   - [x] 06/31 removeFalsyValues
-  - [ ] 07/31 getUpperCaseStrings
+  - [x] 07/31 getUpperCaseStrings
   - [ ] 08/31 getStringsLength
   - [ ] 09/31 insertItem
   - [ ] 10/31 getHead
