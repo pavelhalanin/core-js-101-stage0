@@ -78,7 +78,7 @@
   - [x] 12/17 getDigitalRoot
   - [x] 13/17 isBracketsBalanced
   - [x] 14/17 toNaryString
-  - [ ] 15/17 getCommonDirectoryPath
+  - [x] 15/17 getCommonDirectoryPath
   - [ ] 16/17 getMatrixProduct
   - [ ] 17/17 evaluateTicTacToePosition
 
