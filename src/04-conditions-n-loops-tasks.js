@@ -511,8 +511,46 @@ function getCommonDirectoryPath(pathes) {
  *                         [ 6 ]]
  *
  */
-function getMatrixProduct(/* m1, m2 */) {
-  throw new Error('Not implemented');
+function getMatrixProduct(A, B) {
+  /*
+  A x B = [[A11, A12, A13],    [[B11, B12],
+           [A21, A22, A23]]  X  [B21, B22],  =
+                                [B31, B32]]
+
+  = [[A11B11 + A12B21 + A13B31, A11B12 + A12B22 + A13B32],   [[C11, C12],
+     [A21B11 + A22B21 + A23B31, A21B12 + A22B22 + A22B32]] =  [C21, C22]] = C
+
+  A[2x3] x B[3x2] = C[2x2]
+
+  A[i x j] x B[z x k] = C[i x k]
+
+  if (j !== z) => Error product matrix
+
+  if (j === z) => A x B = C
+  */
+
+  const A_I = A.length;
+  const A_J = A[0].length;
+  const B_Z = B.length;
+  const B_K = B[0].length;
+
+  if (A_J !== B_Z) {
+    return undefined;
+  }
+
+  const C = Array.from({ length: A_I }).map(() => Array.from({ length: B_K }));
+
+  for (let i = 0; i < A_I; i += 1) {
+    for (let k = 0; k < B_K; k += 1) {
+      let sum = 0;
+      for (let j = 0; j < A_J; j += 1) {
+        sum += A[i][j] * B[j][k];
+      }
+      C[i][k] = sum;
+    }
+  }
+
+  return C;
 }
 
 /**
