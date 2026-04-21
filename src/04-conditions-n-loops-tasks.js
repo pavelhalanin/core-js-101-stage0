@@ -330,8 +330,26 @@ function reverseInteger(num) {
  *   5436468789016589 => false
  *   4916123456789012 => false
  */
-function isCreditCardNumber(/* ccn */) {
-  throw new Error('Not implemented');
+function isCreditCardNumber(ccn) {
+  const CARD_NUMBER = [0, ...`${ccn}`.split('').map(Number)]; // cardNumber[1..length]
+  const LENGTH = CARD_NUMBER.length - 1; // length
+
+  let sum = 0; // sum := 0
+  const PATITY = LENGTH % 2; // parity := length mod 2
+  for (let i = 1; i <= LENGTH - 1; i += 1) {
+    // for i from 1 to (length - 1) do
+    if (i % 2 === PATITY) {
+      // if i mod 2 == parity then
+      sum += CARD_NUMBER[i]; // sum := sum + cardNumber[i]
+    } else if (CARD_NUMBER[i] > 4) {
+      // elseif cardNumber[i] > 4 then
+      sum += 2 * CARD_NUMBER[i] - 9; // sum := sum + 2 * cardNumber[i] - 9
+    } else {
+      // else
+      sum += 2 * CARD_NUMBER[i]; // sum := sum + 2 * cardNumber[i]
+    } // end if
+  } // end for
+  return Number(CARD_NUMBER[LENGTH]) === (10 - (sum % 10)) % 10; // return cardNumber[length] == ((10 - (sum mod 10)) mod 10)
 }
 
 /**
