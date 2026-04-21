@@ -583,8 +583,56 @@ function getMatrixProduct(A, B) {
  *    [    ,   ,    ]]
  *
  */
-function evaluateTicTacToePosition(/* position */) {
-  throw new Error('Not implemented');
+function evaluateTicTacToePosition(position) {
+  const M = position.map((e) => {
+    return e.map((element) => `${element}`);
+  });
+
+  const ETALON_1 = M[0][0];
+  const ETALON_2 = M[1][1];
+  const ETALON_3 = M[2][2];
+
+  const IS_LINE_1 =
+    ETALON_1 !== 'undefined' && ETALON_1 === M[0][1] && ETALON_1 === M[0][2];
+
+  if (IS_LINE_1) return ETALON_1;
+
+  const IS_LINE_2 =
+    ETALON_2 !== 'undefined' && ETALON_2 === M[1][0] && ETALON_2 === M[1][2];
+
+  if (IS_LINE_2) return ETALON_2;
+
+  const IS_LINE_3 =
+    ETALON_3 !== 'undefined' && ETALON_3 === M[2][0] && ETALON_3 === M[2][1];
+
+  if (IS_LINE_3) return ETALON_3;
+
+  const IS_COL_1 =
+    ETALON_1 !== 'undefined' && ETALON_1 === M[1][0] && ETALON_1 === M[2][0];
+
+  if (IS_COL_1) return ETALON_1;
+
+  const IS_COL_2 =
+    ETALON_2 !== 'undefined' && ETALON_2 === M[0][1] && ETALON_2 === M[2][1];
+
+  if (IS_COL_2) return ETALON_2;
+
+  const IS_COL_3 =
+    ETALON_3 !== 'undefined' && ETALON_3 === M[0][2] && ETALON_3 === M[1][2];
+
+  if (IS_COL_3) return ETALON_3;
+
+  const IS_DIAGONAL_1 =
+    ETALON_1 !== 'undefined' && ETALON_2 === M[0][0] && ETALON_2 === M[2][2];
+
+  if (IS_DIAGONAL_1) return ETALON_2;
+
+  const IS_DIAGONAL_2 =
+    ETALON_2 !== 'undefined' && ETALON_2 === M[0][2] && ETALON_2 === M[2][0];
+
+  if (IS_DIAGONAL_2) return ETALON_2;
+
+  return undefined;
 }
 
 module.exports = {

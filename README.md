@@ -80,7 +80,7 @@
   - [x] 14/17 toNaryString
   - [x] 15/17 getCommonDirectoryPath
   - [x] 16/17 getMatrixProduct
-  - [ ] 17/17 evaluateTicTacToePosition
+  - [x] 17/17 evaluateTicTacToePosition
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
