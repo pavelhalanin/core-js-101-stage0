@@ -75,7 +75,7 @@
   - [x] 09/17 reverseString
   - [x] 10/17 reverseInteger
   - [x] 11/17 isCreditCardNumber
-  - [ ] 12/17 getDigitalRoot
+  - [x] 12/17 getDigitalRoot
   - [ ] 13/17 isBracketsBalanced
   - [ ] 14/17 toNaryString
   - [ ] 15/17 getCommonDirectoryPath
